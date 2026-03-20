@@ -1,4 +1,4 @@
-for i = 1, 10000
+for i = 1, 10000 do
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-10.6451969, -44.908596, 3508.67578, 0, 0, 1, 0, 1, -0, -1, 0, 0)
 wait(1)
 local player = game.Players.LocalPlayer
