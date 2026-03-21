@@ -22,13 +22,13 @@ end
 
 for i = 1, 10000 do
     -- Первая точка
-    teleportPlayer(Vector3.new(-10.6451969, -44.908596, 3508.67578), 1)
+    teleportPlayer(Vector3.new(-18.8776093, -53.4361572, 3668.14722), 1)
     moveCoinsToPlayer()
     wait(3)
     -- Вторая точка
-    teleportPlayer(Vector3.new(459.20813, 78.4193726, 111.413284), 1)
+    teleportPlayer(Vector3.new(831.804932, 69.5408936, 176.584122), 1)
     moveCoinsToPlayer()
     wait(3)
     -- Третья точка
     teleportPlayer(Vector3.new(63.2598038, 2023.52783, 6.85559082), 1)
-end
+e
